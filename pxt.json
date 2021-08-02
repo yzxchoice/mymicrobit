@@ -3,16 +3,11 @@
     "version": "0.0.1",
     "description": "mymicrobit",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "main.ts"
-    ],
-    "testFiles": [
-        "test.ts"
     ],
     "public": true
 }
